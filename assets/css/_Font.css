@@ -1,0 +1,56 @@
+.nav_title1_font {
+    font-size:  1rem;
+    font-weight: 900;
+    color: #212121;
+}
+
+.nav_title2_font {
+    font-size:  1rem;
+    font-weight: 500;
+    color: #212121;
+}
+
+.title_font1 {
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 10px;
+    color: #212121;
+    display: block;
+}
+
+.content_font1 {
+    font-size: 1rem;
+    font-weight: 500;
+    color: #9aa3b3;
+    display: block;
+}
+
+.table_title_font {
+    font-size: 1rem;
+    font-weight: 700;
+    color: slategrey;
+}
+
+.table_content_font {
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: #bbdefb;
+    word-break: keep-all;
+}
+
+.footer_font1 {
+    font-size: 1rem;
+    font-weight: 400;
+    color: #e2f2ff;
+}
+
+    .footer_font1:hover {
+        color: #bbdefb;
+        cursor: pointer;
+    }
+
+.footer_font2 {
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #eeeeee;
+}
